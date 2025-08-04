@@ -1,0 +1,15 @@
+# Ignore datasets and models
+*.keras
+*.pth
+*.h5
+*.csv
+*.xlsx
+*.zip
+
+# Ignore folders
+fer-2013/
+sleep-edf-database-expanded-*/
+
+# Jupyter auto folders
+.ipynb_checkpoints/
+__pycache__/

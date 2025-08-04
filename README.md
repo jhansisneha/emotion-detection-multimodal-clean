@@ -1,5 +1,5 @@
 # Emotion Detection Using Multimodal Analysis
-- 📘 [Project Report](./Group11_EmotionDetectionUsingMultiModalAnalysis.pdf)
+📘 [Project Report](./Group11_EmotionDetectionUsingMultiModalAnalysis.pdf)
 
 This project is part of a graduate-level course at George Mason University (CS688 - Machine Learning). It focuses on detecting human emotions through multimodal data sources such as facial expressions, sleep patterns, and wearable signals. The system integrates both deep learning and traditional ML techniques to recommend music based on the detected emotional state.
 
